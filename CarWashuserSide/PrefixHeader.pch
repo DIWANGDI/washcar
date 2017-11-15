@@ -1,0 +1,82 @@
+//
+//  PrefixHeader.pch
+//  CarWashuserSide
+//
+//  Created by apple on 2017/10/14.
+//  Copyright © 2017年 apple. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "OWTool.h"
+#import "NSObject+XYExt.h"
+#import "NSString+XYMethod.h"
+#import "MKActionSheet.h"
+#import "NSObject+NullConfig.h"
+#import "CBTableViewDataSource.h"
+#import "KGBaseViewController.h"
+#import "KGBaseTableViewController.h"
+#import "UIImageView+WebCache.h"
+#import "KGNetworkManager.h"
+#import "NetWorkConstants.h"
+#import "NetWorkMessage.h"
+#import "UIColor+Util.h"
+#import "AFNetworking.h"
+#import <CYLTabBarController.h>
+#import <SVProgressHUD.h>
+#import <WHCategories.h>
+#import <ReactiveCocoa.h>
+#import <Masonry.h>
+#import <MJExtension.h>
+#import <MJRefresh.h>
+
+
+#define  kNewWordBaseURLString              @"http://api.mabangxiche.com/"
+#define weakSelf(ws)                         __weak typeof(self) ws = self;
+#define winsize                             [UIScreen mainScreen].bounds.size
+#define UIImageNamed(imgName)               [UIImage imageNamed:imgName]
+#define DismissKeyboard                     [[[UIApplication sharedApplication] keyWindow] endEditing:YES]
+#define KG_COLOR_HOMOPHONY                  @"#F0F0F0"                                 //主调色
+#define KG_COLOR_SEPARATORLINE               @"#dfdfdf"                                 //分割线颜色
+
+/** 主要字体颜色 */
+#define wh_norFontColor wh_RGB(43, 43, 43)
+/** 分割线颜色 */
+#define wh_lineColor wh_RGB(211, 211, 211)
+/** 主题色 */
+#define wh_themeColor wh_RGB(217, 16, 21)
+
+
+
+
+
+#define KG_ORDERFABU_NOTIFICATION            @"fabuxichedingdan"
+#define KG_MYCARLISTRELOAD_NOTIFICATION      @"carlistnotification"   
+#define KG_XINGHAO_NOTIFICATION              @"xinghaonotification"   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#endif /* PrefixHeader_pch */
