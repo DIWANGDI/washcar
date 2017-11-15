@@ -73,8 +73,8 @@
                   symbolName = "-[UITableView(CBTableViewDataSource) cb_makeSectionWithData:andCellClass:]"
                   moduleName = "CarWashuserSide"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/CarWashuserSide/CarWashuserSide/SDK/CBTableViewDataSource/UITableView+CBTableViewDataSource.m"
-                  timestampString = "532315471.712126"
+                  urlString = "file:///Users/apple/Desktop/washcar/CarWashuserSide/SDK/CBTableViewDataSource/UITableView+CBTableViewDataSource.m"
+                  timestampString = "532435383.922685"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "96"
@@ -88,8 +88,8 @@
                   symbolName = "__74-[UITableView(CBTableViewDataSource) cb_makeSectionWithData:andCellClass:]_block_invoke"
                   moduleName = "CarWashuserSide"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/CarWashuserSide/CarWashuserSide/SDK/CBTableViewDataSource/UITableView+CBTableViewDataSource.m"
-                  timestampString = "532315471.71355"
+                  urlString = "file:///Users/apple/Desktop/washcar/CarWashuserSide/SDK/CBTableViewDataSource/UITableView+CBTableViewDataSource.m"
+                  timestampString = "532435383.924121"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "96"
@@ -392,8 +392,8 @@
                   symbolName = "__39-[carLocationController deleteAddress:]_block_invoke"
                   moduleName = "CarWashuserSide"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/CarWashuserSide/CarWashuserSide/Class/ProfileSubControllers(%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E5%AD%90%E9%A1%B5%E9%9D%A2)/carLocationController.m"
-                  timestampString = "532315471.753208"
+                  urlString = "file:///Users/apple/Desktop/washcar/CarWashuserSide/Class/ProfileSubControllers(%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E5%AD%90%E9%A1%B5%E9%9D%A2)/carLocationController.m"
+                  timestampString = "532435383.962553"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "173"
@@ -407,8 +407,8 @@
                   symbolName = "__39-[carLocationController deleteAddress:]_block_invoke_2"
                   moduleName = "CarWashuserSide"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/CarWashuserSide/CarWashuserSide/Class/ProfileSubControllers(%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E5%AD%90%E9%A1%B5%E9%9D%A2)/carLocationController.m"
-                  timestampString = "532315471.754351"
+                  urlString = "file:///Users/apple/Desktop/washcar/CarWashuserSide/Class/ProfileSubControllers(%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E5%AD%90%E9%A1%B5%E9%9D%A2)/carLocationController.m"
+                  timestampString = "532435383.96376"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "175"
@@ -600,8 +600,8 @@
                   symbolName = "-[JYJRegisterController RegisterAction:]"
                   moduleName = "CarWashuserSide"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/CarWashuserSide/CarWashuserSide/Class/ProfileSubControllers(%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E5%AD%90%E9%A1%B5%E9%9D%A2)/JYJRegisterController.m"
-                  timestampString = "532315471.778599"
+                  urlString = "file:///Users/apple/Desktop/washcar/CarWashuserSide/Class/ProfileSubControllers(%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E5%AD%90%E9%A1%B5%E9%9D%A2)/JYJRegisterController.m"
+                  timestampString = "532435383.987918"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "50"
@@ -615,8 +615,8 @@
                   symbolName = "__40-[JYJRegisterController RegisterAction:]_block_invoke"
                   moduleName = "CarWashuserSide"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/apple/Desktop/CarWashuserSide/CarWashuserSide/Class/ProfileSubControllers(%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E5%AD%90%E9%A1%B5%E9%9D%A2)/JYJRegisterController.m"
-                  timestampString = "532315471.780205"
+                  urlString = "file:///Users/apple/Desktop/washcar/CarWashuserSide/Class/ProfileSubControllers(%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%E5%AD%90%E9%A1%B5%E9%9D%A2)/JYJRegisterController.m"
+                  timestampString = "532435383.989049"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "51"
@@ -697,11 +697,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CarWashuserSide/Class/&#x9996;&#x9875;/ViewController.m"
-            timestampString = "532078259.082204"
+            timestampString = "532435455.082536"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "287"
-            endingLineNumber = "287"
+            startingLineNumber = "286"
+            endingLineNumber = "286"
             landmarkName = "-getLocation"
             landmarkType = "7">
          </BreakpointContent>
@@ -889,11 +889,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CarWashuserSide/Class/&#x9996;&#x9875;/ViewController.m"
-            timestampString = "532078259.082596"
+            timestampString = "532435455.082536"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "446"
-            endingLineNumber = "446"
+            startingLineNumber = "445"
+            endingLineNumber = "445"
             landmarkName = "-TableloadData"
             landmarkType = "7">
          </BreakpointContent>
@@ -1016,22 +1016,6 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "CarWashuserSide/Tools/Networks/KGNetworkManager.m"
-            timestampString = "532239635.474615"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "147"
-            endingLineNumber = "147"
-            landmarkName = "-invokeNetWorkAPIWith:withUserInfo:success:failure:visibleHUD:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "CarWashuserSide/Class/ProfileSubControllers(&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;&#x5b50;&#x9875;&#x9762;)/&#x6211;&#x7684;&#x8ba2;&#x5355;/JYOrderDetailController.m"
             timestampString = "532079169.593283"
             startingColumnNumber = "9223372036854775807"
@@ -1071,22 +1055,6 @@
             startingLineNumber = "122"
             endingLineNumber = "122"
             landmarkName = "-deleteOrder:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CarWashuserSide/Tools/Networks/KGNetworkManager.m"
-            timestampString = "532239635.474615"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "145"
-            endingLineNumber = "145"
-            landmarkName = "-invokeNetWorkAPIWith:withUserInfo:success:failure:visibleHUD:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1295,6 +1263,86 @@
             startingLineNumber = "293"
             endingLineNumber = "293"
             landmarkName = "-editCarInform"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarWashuserSide/Class/&#x9996;&#x9875;/ViewController.m"
+            timestampString = "532435455.082536"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "277"
+            endingLineNumber = "277"
+            landmarkName = "-getLocation"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarWashuserSide/Class/&#x9996;&#x9875;/ViewController.m"
+            timestampString = "532435455.082536"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "279"
+            endingLineNumber = "279"
+            landmarkName = "-getLocation"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarWashuserSide/Tools/Networks/KGNetworkManager.m"
+            timestampString = "532434975.082289"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "-invokeNetWorkAPIWith:withUserInfo:success:failure:visibleHUD:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarWashuserSide/Tools/Networks/KGNetworkManager.m"
+            timestampString = "532435066.309861"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "-invokeNetWorkAPIWith:withUserInfo:success:failure:visibleHUD:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarWashuserSide/Tools/Networks/KGNetworkManager.m"
+            timestampString = "532435103.930374"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "-invokeNetWorkAPIWith:withUserInfo:success:failure:visibleHUD:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

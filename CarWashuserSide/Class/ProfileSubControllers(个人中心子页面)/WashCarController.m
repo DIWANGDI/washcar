@@ -263,11 +263,11 @@
                                   @"O_WPart":orderStr,
                                   @"O_CTID":self.model.C_CTID,
                                   @"O_Price":O_Price,
-                                  @"O_WriteAdress":self.carView.car_detail_Address.text,
+                                  @"O_WriteAdress":configEmpty(self.carView.car_detail_Address.text),
                                   @"O_Adress":self.carView.car_Address.titleLabel.text,
                                   @"O_Lng":@(self.O_Lng),
                                   @"O_Lat":@(self.O_Lat),
-                                  @"O_IsPhone":[[OWTool Instance] getIsCallState],
+                                  @"O_IsPhone":configEmpty([[OWTool Instance] getIsCallState]).length==0?@"0":configEmpty([[OWTool Instance] getIsCallState]),
                                   @"O_Money":@(showld_pay),
                                   @"O_WashTime":self.carView.car_time.titleLabel.text,
                                   @"O_TID":self.djqID

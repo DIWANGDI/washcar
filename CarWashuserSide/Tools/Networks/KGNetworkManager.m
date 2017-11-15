@@ -137,7 +137,7 @@
     
     AFHTTPRequestOperationManager *manager = [self baseHtppRequest];
     
-    NSString *urlStr = [[NSString stringWithFormat:@"%@/%@",baseUrl,actionValue] stringByReplacingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
+    NSString *urlStr = [[NSString stringWithFormat:@"%@%@",baseUrl,actionValue] stringByReplacingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
     
     [params setObject:@"ald25e4fe86d4gv4bthj419t6yu4j6w56wty9" forKey:@"keys"];
     

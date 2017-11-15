@@ -162,8 +162,6 @@
         } failure:^(NSError *error) {
             
         } visibleHUD:NO];
-        
-        
     }
     [OWTool Instance].wasnFinishedToPhone=YES;
     self.automaticallyAdjustsScrollViewInsets = NO;
@@ -272,8 +270,8 @@
 -(void)getLocation
 {
     NSMutableDictionary *parms=[@{
-                                  @"Lng":@(self.locationCoordInate2D.latitude),
-                                  @"Lat":@(self.locationCoordInate2D.longitude)
+                                  @"Lng":@(self.locationCoordInate2D.longitude),
+                                  @"Lat":@(self.locationCoordInate2D.latitude)
                                   }mutableCopy];
     [[KGNetworkManager sharedInstance] invokeNetWorkAPIWith:KNetWorkgetxichegongLocation withUserInfo:parms success:^(NSArray *message,NSString *errorMsg,NSString *okStr)
     {
